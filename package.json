@@ -1,0 +1,10 @@
+{
+    "name": "pulumi-serverless",
+    "main": "index.js",
+    "dependencies": {
+        "@pulumi/aws": "latest",
+        "@pulumi/aws-serverless": "dev",
+        "@pulumi/pulumi": "latest",
+        "qs": "^6.5.2"
+    }
+}
